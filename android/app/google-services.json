@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652043741912",
+    "project_id": "kujikunewsly",
+    "storage_bucket": "kujikunewsly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652043741912:android:c785cf33e4fba6ca8605ad",
+        "android_client_info": {
+          "package_name": "com.kujiku.kujikunews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652043741912-bjte1hgbphfvu1g3tkakpnrulj7152md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFhFOvbdayq-cCtG4lqT3z1r1_lzQ8mTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652043741912-bjte1hgbphfvu1g3tkakpnrulj7152md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
